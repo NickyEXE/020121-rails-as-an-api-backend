@@ -12,6 +12,7 @@ cats = [
     "actor": "Taylor Swift",
     "description": "Femme fatale, introduces Macavity at the Jellicle Ball.",
     "image": "https://www.gannett-cdn.com/presto/2019/12/18/USAT/bfd9983f-dcd6-46a0-93c1-aabad1226e58-XXX_078_swift.JPG",
+    "tip": 20,
     "team_name": "Macaviteam"
   },
   {
@@ -19,6 +20,7 @@ cats = [
     "actor": "Idris Elba",
     "description": "Magical, nefarious, kidnaps Old Deuteronomy at the Jellicle Ball",
     "image": "https://vignette.wikia.nocookie.net/villains/images/f/f2/646646464-2.jpg",
+    "tip": 20,
     "team_name": "Macaviteam"
   },
   {
@@ -26,6 +28,7 @@ cats = [
     "actor": "Steven McRae",
     "description": "The RAILWAY CAT, THE CAT ON THE RAILWAY TRAIN",
     "image": "https://vignette.wikia.nocookie.net/catsmusical/images/1/1a/Skimbleshanks_Movie_2019.png/revision/latest?cb=20191221210538",
+    "tip": 20,
     "team_name": "Jellicle Ball Contestant"
   },
   {
@@ -33,6 +36,7 @@ cats = [
     "actor": "Robbie Fairchild",
     "description": "The narrator cat, introduces many of the other Jellicles.",
     "image": "https://vignette.wikia.nocookie.net/catsmusical/images/f/fb/Munkustrap_Robbie_Fairchild.png",
+    "tip": 20,
     "team_name": "Jellicle"
   },
   {
@@ -40,6 +44,7 @@ cats = [
     "actor": "Jennifer Hudson",
     "description": "The Glamour Cat, now shunned by the Jellicles and wishing for her former life. Sings Memory.",
     "image": "https://vignette.wikia.nocookie.net/catsmusical/images/b/bb/Grizabella_Jennifer_Hudson_Memory_Prelude_1.png",
+    "tip": 20,
     "team_name": "Unaffiliated"
   },
   {
@@ -47,6 +52,7 @@ cats = [
     "actor": "Laurie Davidson",
     "description": "The Magical Cat!",
     "image":  "https://vignette.wikia.nocookie.net/catsmusical/images/c/c9/Mistoffelees_laurie_davidson_movie_2019_02.png",
+    "tip": 20,
     "team_name": "Jellicle"
   },
   {
@@ -54,6 +60,7 @@ cats = [
     "actor": "Jason Derulo",
     "description": "The Rum Tum Tugger is a curious cat.",
     "image": "https://vignette.wikia.nocookie.net/catsmusical/images/0/0e/Rum_tum_tugger_jason_derulo_movie_2019_01.png/",
+    "tip": 20,
     "team_name": "Jellicle Ball Contestant"
   }
 ]
