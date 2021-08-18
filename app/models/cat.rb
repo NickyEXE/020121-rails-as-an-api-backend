@@ -1,5 +1,6 @@
 class Cat < ApplicationRecord
   belongs_to :team
+  validates :name, presence: true
 
 
   def team_name=(name)

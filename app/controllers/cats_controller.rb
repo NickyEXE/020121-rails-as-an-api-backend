@@ -6,6 +6,16 @@ class CatsController < ApplicationController
     render json: cats
   end
 
+  def create
+    cat = Cat.new(cat_purrrams)
+    if cat.save
+      render json: cat
+    else
+      render json: {error: cat.errors.full_messages.to_sentence}, status: 400
+    end
+  end
+
+
   def update
     @cat.update(cat_purrrams)
     render json: @cat
